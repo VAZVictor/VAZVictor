@@ -73,12 +73,16 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 <div align="center">
 
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=VAZVictor&theme=dark&hide_border=true&background=161616&ring=9B1B30&fire=E05A6F&currStreakLabel=FFFFFF"
+  alt="Victor's GitHub contribution streak"
+  width="70%"
+/>
+
 <a href="https://github.com/VAZVictor">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VAZVictor&theme=github_dark" alt="Victor's GitHub profile summary" width="100%" />
 </a>
-
-  
-
 
 </div>
 
@@ -98,35 +102,16 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ## Highlighted Repositories
 
-<div align="left">
-###[Coin Forge](https://github.com/VAZVictor/Coin-Forge )
+<table> <tr> <td width="50%" valign="top"> <h3 align="center"><a href="https://github.com/VAZVictor/Coin-Forge">Coin Forge</a></h3> <p align="center">A polished Angular clicker game with exponential progression, prestige systems, and dynamic UI feedback.</p> <p align="center"> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/badge/View_Repository-Coin--Forge-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View Coin Forge repository" /> </a> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/github/stars/VAZVictor/Coin-Forge?style=flat-square&color=9B1B30&label=Stars" alt="Coin Forge stars" /> <img src="https://img.shields.io/github/forks/VAZVictor/Coin-Forge?style=flat-square&color=6E1423&label=Forks" alt="Coin Forge forks" /> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center"><a href="https://github.com/FelixZannantoni/OnlineCasino">OnlineCasino</a></h3> <p align="center">A web application for casino-style games with Blackjack, Poker, Roulette, Slots, and social features.</p> <p align="center"> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/badge/View_Repository-OnlineCasino-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View OnlineCasino repository" /> </a> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/github/stars/FelixZannantoni/OnlineCasino?style=flat-square&color=9B1B30&label=Stars" alt="OnlineCasino stars" /> <img src="https://img.shields.io/github/forks/FelixZannantoni/OnlineCasino?style=flat-square&color=6E1423&label=Forks" alt="OnlineCasino forks" /> </a> </p> </td> </tr> </table>
 
-A browser clicker game focused on exponential progression, responsive feedback, and polished interactions.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-VAZVictor%2FClicker-9B1B30?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor/Coin-Forge )
-[![GitHub Stars](https://img.shields.io/github/stars/VAZVictor/Clicker?style=flat-square&color=9B1B30&label=Stars )](https://github.com/VAZVictor/Coin-Forge )
-[![GitHub Forks](https://img.shields.io/github/forks/VAZVictor/Clicker?style=flat-square&color=6E1423&label=Forks )](https://github.com/VAZVictor/Coin-Forge )
-
-
-<div align="right">
-###[Coin Forge](https://github.com/FelixZannantoni/OnlineCasino )
-
-A friendly casino game/web-app where you can gamble with your friends.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-VAZVictor%2FClicker-9B1B30?style=for-the-badge&logo=github&logoColor=white )](https://github.com/FelixZannantoni/OnlineCasino )
-[![GitHub Stars](https://img.shields.io/github/stars/FelixZannantoni/OnlineCasino?style=flat-square&color=9B1B30&label=Stars )](https://github.com/FelixZannantoni/OnlineCasino )
-[![GitHub Forks](https://img.shields.io/github/forks/FelixZannantoni/OnlineCasino?style=flat-square&color=6E1423&label=Forks )](https://github.com/FelixZannantoni/OnlineCasino )
-
-</div>
-
-
-</div>
 
 ---
 
 ## Contribution Snake
 
-![Animated GitHub contribution snake](https://raw.githubusercontent.com/VAZVictor/VAZVictor/output/github-contribution-grid-snake.svg )
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VAZVictor/VAZVictor/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+</div>
 
 ---
 
