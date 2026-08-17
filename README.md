@@ -1,34 +1,12 @@
-# Hello, I am VAZVictor
+# Hello, I am Victor Ehrenmüller-Jensen
 
-### Focusing on clean architecture, dynamic UIs, and scalable applications.
+### Focusing on clean architecture, dynamic UIs, and scalable applications
 
-Passionate student developer from Austria (3AHIF). I specialize in building JavaFX applications and web applications with a strong emphasis on validation, and maintainable MVC architecture.
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Prolog-742833?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+Passionate student developer from Austria (3AHIF). I specialize in building JavaFX applications and web applications with a strong emphasis on validation and maintainable MVC architecture.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -38,19 +16,55 @@ Passionate student developer from Austria (3AHIF). I specialize in building Java
 
 ---
 
-## GitHub Stats
+<h1 align="center">📈 Victor Ehrenmüller-Jensen's Dev Metrics</h1>
 
-- **Repositories**: [Check my repos](https://github.com/VAZVictor?tab=repositories)
-- **Contributions**: [View contribution graph](https://github.com/VAZVictor)
-- **Followers**: [See profile](https://github.com/VAZVictor)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VAZVictor&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VAZVictor&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" width="45%" />
+
+</div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAZVictor&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
+
+</div>
 
 ---
 
-## Contact
+## 🛠️ Built With
 
-- **Email**: [victor.ehrenmueller.jensen@gmail.com](mailto:victor.ehrenmueller.jensen@gmail.com)
-- **GitHub**: [@VAZVictor](https://github.com/VAZVictor)
-
-<p align="center">
-  <em>Built with precision and a focus on clean code.</em>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaFX-333?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-333?style=for-the-badge&logo=plsql&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/PySpark-333?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Prolog-333?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.ehrenmueller.jensen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAZVictor)
+
+</div>
