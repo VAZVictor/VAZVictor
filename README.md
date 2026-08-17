@@ -27,8 +27,8 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [OnlineCasino](https://github.com/VAZVictor/OnlineCasino ) | A web application for playing casino-style games with friends, developed with a clear MVC structure. | TypeScript, JavaScript, HTML, CSS |
-| [Coin Forge](https://github.com/VAZVictor/Clicker ) | A browser clicker game focused on exponential progression, responsive feedback, and polished interactions. | Angular, TypeScript, HTML, CSS |
+| [OnlineCasino](https://github.com/VAZVictor/OnlineCasino ) | A web application for playing casino-style games with friends, developed with a clear MVC structure. | TypeScript, JavaScript, HTML, CSS, SQLite |
+| [Coin Forge](https://github.com/VAZVictor/Clicker ) | A browser clicker game focused on exponential progression, responsive feedback, and polished interactions. | Angular, TypeScript, HTML, CSS, SQLite |
 | [Address Book](https://github.com/VAZVictor/AddressBook ) | A contact management application with database integration, regular-expression validation, and live UI statistics. | Java, JavaFX, SQL, Regex |
 
 ---
