@@ -40,7 +40,7 @@ Passionate student developer from Austria (3AHIF). I specialize in building Java
 
 ## 🛠️ Built With
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white" alt="C" />
