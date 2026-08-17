@@ -1,4 +1,4 @@
-# Hello, I am Weirdness
+# Hello, I am VAZVictor
 
 ### Focusing on clean architecture, dynamic UIs, and scalable applications.
 
