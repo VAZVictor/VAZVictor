@@ -57,6 +57,8 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
   <img src="https://img.shields.io/badge/Git-6E1423?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-6E1423?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-6E1423?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/SQLite-6E1423?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/.ENV-6E1423?style=for-the-badge&logo=.env&logoColor=white" alt="dotenv" />
 </p>
 
 ### Additional Experience
@@ -66,8 +68,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
   <img src="https://img.shields.io/badge/Prolog-333333?style=for-the-badge&logoColor=white" alt="Prolog" />
   <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/.ENV-333333?style=for-the-badge&logo=.env&logoColor=white" alt="dotenv" />
+
 </p>
 
 ---
