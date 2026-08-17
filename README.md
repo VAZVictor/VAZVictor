@@ -50,8 +50,9 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 <p>
   <img src="https://img.shields.io/badge/JavaFX-6E1423?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Angular-6E1423?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/.NET-6E1423?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-6E1423?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=oracle&logoColor=white" alt="PL SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=data&logoColor=white" alt="PL SQL" />
   <img src="https://img.shields.io/badge/Docker-6E1423?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-6E1423?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-6E1423?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -64,7 +65,9 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
   <img src="https://img.shields.io/badge/PySpark-333333?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Prolog-333333?style=for-the-badge&logoColor=white" alt="Prolog" />
   <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQLite-333333?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/.ENV-333333?style=for-the-badge&logo=.env&logoColor=white" alt="dotenv" />
 </p>
 
 ---
