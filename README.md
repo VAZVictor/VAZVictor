@@ -98,24 +98,35 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ## Highlighted Repositories
 
-<div align="center">
+<div align="left">
+###[Coin Forge](https://github.com/VAZVictor/Coin-Forge )
 
-<a href="https://github.com/FelixZannantoni/OnlineCasino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixZannantoni&repo=OnlineCasino&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="OnlineCasino repository card" />
-</a>
-<a href="https://github.com/VAZVictor/Clicker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VAZVictor&repo=Clicker&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="Coin Forge repository card" />
-</a>
+A browser clicker game focused on exponential progression, responsive feedback, and polished interactions.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-VAZVictor%2FClicker-9B1B30?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor/Coin-Forge )
+[![GitHub Stars](https://img.shields.io/github/stars/VAZVictor/Clicker?style=flat-square&color=9B1B30&label=Stars )](https://github.com/VAZVictor/Coin-Forge )
+[![GitHub Forks](https://img.shields.io/github/forks/VAZVictor/Clicker?style=flat-square&color=6E1423&label=Forks )](https://github.com/VAZVictor/Coin-Forge )
+
+
+<div align="right">
+###[Coin Forge](https://github.com/FelixZannantoni/OnlineCasino )
+
+A friendly casino game/web-app where you can gamble with your friends.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-VAZVictor%2FClicker-9B1B30?style=for-the-badge&logo=github&logoColor=white )](https://github.com/FelixZannantoni/OnlineCasino )
+[![GitHub Stars](https://img.shields.io/github/stars/FelixZannantoni/OnlineCasino?style=flat-square&color=9B1B30&label=Stars )](https://github.com/FelixZannantoni/OnlineCasino )
+[![GitHub Forks](https://img.shields.io/github/forks/FelixZannantoni/OnlineCasino?style=flat-square&color=6E1423&label=Forks )](https://github.com/FelixZannantoni/OnlineCasino )
+
+</div>
+
 
 </div>
 
 ---
 
-## Optional: Contribution Snake
+## Contribution Snake
 
-The animated contribution snake is a great extra for this profile. It requires a small GitHub Actions workflow in the profile repository because the SVG has to be generated there first. The official [snk project](https://github.com/Platane/snk ) provides the required action.
-
-After the first successful workflow run, the generated animation can be embedded here with a light/dark `<picture>` block.
+![Animated GitHub contribution snake](https://raw.githubusercontent.com/VAZVictor/VAZVictor/output/github-contribution-grid-snake.svg )
 
 ---
 
