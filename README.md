@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi, I'm Victor Ehrenmüller-Jensen
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B1B30&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Student+developer+from+Austria;Building+clean+and+scalable+applications" alt="Animated introduction" />
+
+# Victor Ehrenmüller-Jensen
 
 ### Student Developer from Austria | Clean Architecture | Dynamic UIs
 
 I am a passionate developer from Austria and a student at **3AHIF**. I enjoy building maintainable applications, intuitive user interfaces, and practical software solutions with a strong focus on clean architecture, validation, and MVC design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-VAZVictor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAZVictor)
-[![Profile Views](https://komarev.com/ghpvc/?username=VAZVictor&style=for-the-badge&color=9B1B30&label=PROFILE+VIEWS)](https://github.com/VAZVictor)
+[![GitHub](https://img.shields.io/badge/GitHub-VAZVictor-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor )
+[![Profile Views](https://komarev.com/ghpvc/?username=VAZVictor&style=for-the-badge&color=9B1B30&label=PROFILE+VIEWS )](https://github.com/VAZVictor )
 
 </div>
 
@@ -25,9 +27,9 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [OnlineCasino](https://github.com/VAZVictor/OnlineCasino) | A web application for playing casino-style games with friends, developed with a clear MVC structure. | TypeScript, JavaScript, HTML, CSS |
-| [Coin Forge](https://github.com/VAZVictor/Clicker) | A browser clicker game focused on exponential progression, responsive feedback, and polished interactions. | Angular, TypeScript, HTML, CSS |
-| [Address Book](https://github.com/VAZVictor/AddressBook) | A contact management application with database integration, regular-expression validation, and live UI statistics. | Java, JavaFX, SQL, Regex |
+| [OnlineCasino](https://github.com/VAZVictor/OnlineCasino ) | A web application for playing casino-style games with friends, developed with a clear MVC structure. | TypeScript, JavaScript, HTML, CSS |
+| [Coin Forge](https://github.com/VAZVictor/Clicker ) | A browser clicker game focused on exponential progression, responsive feedback, and polished interactions. | Angular, TypeScript, HTML, CSS |
+| [Address Book](https://github.com/VAZVictor/AddressBook ) | A contact management application with database integration, regular-expression validation, and live UI statistics. | Java, JavaFX, SQL, Regex |
 
 ---
 
@@ -67,14 +69,53 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VAZVictor&theme=dark&hide_border=true&background=161616&ring=9B1B30&fire=E05A6F&currStreakLabel=FFFFFF" alt="GitHub contribution streak" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VAZVictor&bg_color=161616&color=FFFFFF&line=9B1B30&point=E05A6F&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<a href="https://github.com/VAZVictor">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VAZVictor&theme=github_dark" alt="Victor's GitHub profile summary" width="100%" />
+</a>
+
+  
+
 
 </div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/VAZVictor">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAZVictor&bg_color=161616&color=FFFFFF&line=9B1B30&point=E05A6F&area=true&hide_border=true&custom_title=Victor%27s%20GitHub%20Activity" alt="Victor's GitHub contribution activity graph" width="100%" />
+</a>
+
+</div>
+
+---
+
+## Highlighted Repositories
+
+<div align="center">
+
+<a href="https://github.com/VAZVictor/OnlineCasino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VAZVictor&repo=OnlineCasino&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="OnlineCasino repository card" />
+</a>
+<a href="https://github.com/VAZVictor/Clicker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VAZVictor&repo=Clicker&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="Coin Forge repository card" />
+</a>
+
+</div>
+
+---
+
+## Optional: Contribution Snake
+
+The animated contribution snake is a great extra for this profile. It requires a small GitHub Actions workflow in the profile repository because the SVG has to be generated there first. The official [snk project](https://github.com/Platane/snk ) provides the required action.
+
+After the first successful workflow run, the generated animation can be embedded here with a light/dark `<picture>` block.
 
 ---
 
@@ -93,7 +134,9 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-9B1B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.ehrenmueller.jensen@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VAZVictor)
+[![Email](https://img.shields.io/badge/Email-9B1B30?style=for-the-badge&logo=gmail&logoColor=white )](mailto:victor.ehrenmueller.jensen@gmail.com)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor )
 
 </div>
+
+<!-- This README uses standard GitHub-compatible Markdown and HTML only. -->
