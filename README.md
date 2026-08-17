@@ -101,7 +101,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 <div align="center">
 
 <a href="https://github.com/VAZVictor/OnlineCasino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VAZVictor&repo=OnlineCasino&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="OnlineCasino repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FelixZannantoni&repo=OnlineCasino&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="OnlineCasino repository card" />
 </a>
 <a href="https://github.com/VAZVictor/Clicker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VAZVictor&repo=Clicker&hide_border=true&bg_color=161616&title_color=E05A6F&text_color=FFFFFF&icon_color=9B1B30" alt="Coin Forge repository card" />
