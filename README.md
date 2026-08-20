@@ -68,7 +68,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 <p>
   <img src="https://img.shields.io/badge/PySpark-333333?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Prolog-333333?style=for-the-badge&logoColor=white" alt="Prolog" />
-  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/SCSS-333333?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS" />
 
