@@ -1,11 +1,12 @@
 <div align="center">
-
+<!-- Animated typing SVG introduction with custom font, color, and centered alignment -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B1B30&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Student+developer+from+Austria;Building+clean+and+scalable+applications" alt="Animated introduction" />
 
 # Victor Ehrenmüller-Jensen
 
 ### Student Developer from Austria | Clean Architecture | Dynamic UIs
 
+<!-- Main profile introduction text followed by navigation and profile view badges -->
 I am a passionate developer from Austria and a student at **3AHIF**. I enjoy building maintainable applications, intuitive user interfaces, and practical software solutions with a strong focus on clean architecture, validation, and MVC design.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VAZVictor-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor )
@@ -15,6 +16,7 @@ I am a passionate developer from Austria and a student at **3AHIF**. I enjoy bui
 
 ---
 
+<!-- About Me section detailing background, current focus, and development interests -->
 ## About Me
 
 I work across desktop and web development, combining object-oriented programming with modern frontend technologies. My projects often include database integration, live UI updates, input validation, and clearly separated application layers.
@@ -23,6 +25,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Featured Projects table listing key applications with descriptions and technology stacks -->
 ## Featured Projects
 
 | Project | Description | Technologies |
@@ -33,6 +36,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Technology Stack section divided into Languages, Frameworks/Tools, and Additional Experience using shield badges -->
 ## Technology Stack
 
 ### Programming Languages
@@ -71,15 +75,14 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
   <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/SCSS-333333?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS" />
-
 </p>
 
 ---
 
+<!-- GitHub Statistics section displaying contribution streak and profile summary cards with dark theme -->
 ## GitHub Statistics
 
 <div align="center">
-
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=VAZVictor&theme=dark&hide_border=true&background=161616&ring=9B1B30&fire=E05A6F&currStreakLabel=FFFFFF"
@@ -95,6 +98,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Contribution Activity section featuring a custom-colored GitHub activity graph -->
 ## Contribution Activity
 
 <div align="center">
@@ -107,19 +111,20 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Highlighted Repositories section using a two-column table layout for top projects with star counts -->
 ## Highlighted Repositories
 
 <table> <tr> 
   <td width="50%" valign="top"> 
-    <h3 align="center"><a href="https://github.com/VAZVictor/Coin-Forge">Coin Forge</a></h3> <p align="center">A polished Angular clicker game with exponential progression, prestige systems, and dynamic UI feedback.       </p> <p align="center"> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/badge/View_Repository-Coin--Forge-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View Coin     Forge repository" /> </a> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/github/stars/VAZVictor/Coin-Forge?style=flat-square&color=9B1B30&label=Stars" alt="Coin Forge stars" /></a> </p> 
+    <h3 align="center"><a href="https://github.com/VAZVictor/Coin-Forge">Coin Forge</a></h3> <p align="center">A polished Angular clicker game with exponential progression, prestige systems, and dynamic UI feedback.</p> <p align="center"> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/badge/View_Repository-Coin--Forge-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View Coin Forge repository" /> </a> <a href="https://github.com/VAZVictor/Coin-Forge"> <img src="https://img.shields.io/github/stars/VAZVictor/Coin-Forge?style=flat-square&color=9B1B30&label=Stars" alt="Coin Forge stars" /></a> </p> 
   </td>
   
-  <td width="50%" valign="top"> <h3 align="center"><a href="https://github.com/FelixZannantoni/OnlineCasino">OnlineCasino</a></h3> <p align="center">A web application for casino-style games with Blackjack, Poker,            Roulette, Slots, and social features.</p> <p align="center"> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/badge/View_Repository-OnlineCasino-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View OnlineCasino repository" /> </a> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/github/stars/FelixZannantoni/OnlineCasino?style=flat-square&color=9B1B30&label=Stars" alt="OnlineCasino stars" /> </a> </p> 
+  <td width="50%" valign="top"> <h3 align="center"><a href="https://github.com/FelixZannantoni/OnlineCasino">OnlineCasino</a></h3> <p align="center">A web application for casino-style games with Blackjack, Poker, Roulette, Slots, and social features.</p> <p align="center"> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/badge/View_Repository-OnlineCasino-9B1B30?style=for-the-badge&logo=github&logoColor=white" alt="View OnlineCasino repository" /> </a> <a href="https://github.com/FelixZannantoni/OnlineCasino"> <img src="https://img.shields.io/github/stars/FelixZannantoni/OnlineCasino?style=flat-square&color=9B1B30&label=Stars" alt="OnlineCasino stars" /> </a> </p> 
   </td> </tr> </table>
-
 
 ---
 
+<!-- Contribution Snake animation dynamically generated from the user's contribution grid -->
 ## Contribution Snake
 
 <div align="center">
@@ -128,6 +133,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Development Principles table outlining core coding philosophies and their practical meanings -->
 ## Development Principles
 
 | Principle | What it means to me |
@@ -139,6 +145,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 ---
 
+<!-- Let's Connect section providing contact links and social media badges -->
 ## Let's Connect
 
 <div align="center">
@@ -147,5 +154,3 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 [![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor )
 
 </div>
-
-<!-- This README uses standard GitHub-compatible Markdown and HTML only. -->
