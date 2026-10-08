@@ -54,6 +54,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 <p>
   <img src="https://img.shields.io/badge/JavaFX-6E1423?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Angular-6E1423?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Quarkus-6E1423?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/.NET-6E1423?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-6E1423?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=data&logoColor=white" alt="PL SQL" />
