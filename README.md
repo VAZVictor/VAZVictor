@@ -43,7 +43,8 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 <p>
   <img src="https://img.shields.io/badge/Java-9B1B30?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-9B1B30?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/C%23-9B1B30?style=for-the-badge&logo=c#&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/C++-9B1B30?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-9B1B30?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-9B1B30?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-9B1B30?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
