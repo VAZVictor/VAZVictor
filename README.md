@@ -104,13 +104,7 @@ At the moment, I am especially interested in **Quarkus-based backend application
 <!-- Contribution Activity section featuring a custom-colored GitHub activity graph -->
 ## Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/VAZVictor">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VAZVictor&bg_color=161616&color=FFFFFF&line=9B1B30&point=E05A6F&area=true&hide_border=true&custom_title=Victor%27s%20GitHub%20Activity" alt="Victor's GitHub contribution activity graph" width="100%" />
-</a>
-
-</div>
+![GitHub Activity Graph](https://raw.githubusercontent.com/VAZVictor/VAZVictor/output/activity-graph.svg)   
 
 ---
 
