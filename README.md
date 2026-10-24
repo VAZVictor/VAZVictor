@@ -43,9 +43,9 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 
 <p>
   <img src="https://img.shields.io/badge/Java-9B1B30?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-9B1B30?style=for-the-badge&logo=c#&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/C++-9B1B30?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-9B1B30?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-9B1B30?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-9B1B30?style=for-the-badge&logo=c#&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/JavaScript-9B1B30?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-9B1B30?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
@@ -55,6 +55,7 @@ At the moment, I am especially interested in **JavaFX applications**, **TypeScri
 <p>
   <img src="https://img.shields.io/badge/JavaFX-6E1423?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Angular-6E1423?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/LVGL-6E1423?style=for-the-badge&logo=lvgl&logoColor=white" alt="LVGL" />
   <img src="https://img.shields.io/badge/Quarkus-6E1423?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/.NET-6E1423?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-6E1423?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
