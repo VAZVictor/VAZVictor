@@ -7,7 +7,7 @@
 ### Student Developer from Austria | Clean Architecture | Dynamic UIs
 
 <!-- Main profile introduction text followed by navigation and profile view badges -->
-I am a passionate developer from Austria and a student at **3AHIF**. I enjoy building maintainable applications, intuitive user interfaces, and practical software solutions with a strong focus on clean architecture, validation, and MVC design.
+I am a passionate developer from Austria and a student at **4AHIF**. I enjoy building maintainable applications, intuitive user interfaces, and practical software solutions with a strong focus on clean architecture, validation, and MVC design.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VAZVictor-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/VAZVictor )
 [![Profile Views](https://komarev.com/ghpvc/?username=VAZVictor&style=for-the-badge&color=9B1B30&label=PROFILE+VIEWS )](https://github.com/VAZVictor )
@@ -21,7 +21,7 @@ I am a passionate developer from Austria and a student at **3AHIF**. I enjoy bui
 
 I work across desktop and web development, combining object-oriented programming with modern frontend technologies. My projects often include database integration, live UI updates, input validation, and clearly separated application layers.
 
-At the moment, I am especially interested in **JavaFX applications**, **TypeScript-based web applications**, **MVC architecture**, and building software that remains easy to understand and extend.
+At the moment, I am especially interested in **Quarkus-based backend applications**, **object-oriented C# development**, **MVC architecture**, and building software that remains easy to understand and extend.
 
 ---
 
