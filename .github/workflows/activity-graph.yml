@@ -1,0 +1,28 @@
+name: Activity Graph
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+      - uses: maurodesouza/github-readme-activity-graph-action@v1.5.0
+        with:
+          username: your-username
+          bg_color: '161616'
+          color: 'FFFFFF'
+          line: '9B1B30'
+          point: 'E05A6F'
+          area: true
+          hide_border: true
+          custom_title: "Victor's GitHub Activity"
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "update activity graph" || exit 0
+          git push   
