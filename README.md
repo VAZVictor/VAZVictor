@@ -59,7 +59,8 @@ At the moment, I am especially interested in **Quarkus-based backend application
   <img src="https://img.shields.io/badge/Quarkus-6E1423?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/.NET-6E1423?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-6E1423?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=data&logoColor=white" alt="PL SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=database&logoColor=white" alt="PL SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6E1423?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-6E1423?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-6E1423?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-6E1423?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
