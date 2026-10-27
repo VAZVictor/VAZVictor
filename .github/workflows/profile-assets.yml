@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -9,9 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
@@ -28,4 +27,16 @@ jobs:
           build_dir: dist
           target_branch: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  summary-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          cards: profile-details
+          theme: github_dark
+          hostname: VAZVictor
+          os: ubuntu   
