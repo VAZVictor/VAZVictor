@@ -1,17 +1,26 @@
 name: Generate profile assets
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,22 +30,32 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated files
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: VAZVictor
+          options: bg_color=161616&color=FFFFFF&line=9B1B30&point=E05A6F&area=true&hide_border=true&custom_title=Victor%27s%20GitHub%20Activity
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: VAZVictor
+          BRANCH_NAME: output
+          TIME_ZONE: Europe/Vienna
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Add summary cards to published assets
+        run: cp -R profile-summary-card-output dist/
+
+      - name: Publish profile assets
         uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          cards: profile-details
-          theme: github_dark
-          hostname: VAZVictor
-          os: ubuntu   
