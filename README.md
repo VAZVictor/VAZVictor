@@ -64,6 +64,7 @@ At the moment, I am especially interested in **Quarkus-based backend application
   <img src="https://img.shields.io/badge/Docker-6E1423?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-6E1423?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-6E1423?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jetbrains-6E1423?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Jetbrains" />
   <img src="https://img.shields.io/badge/Vercel-6E1423?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-6E1423?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Turso-6E1423?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
