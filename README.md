@@ -59,6 +59,7 @@ At the moment, I am especially interested in **Quarkus-based backend application
   <img src="https://img.shields.io/badge/Quarkus-6E1423?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
   <img src="https://img.shields.io/badge/.NET-6E1423?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/SQL-6E1423?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-6E1423?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PL%2FSQL-6E1423?style=for-the-badge&logo=database&logoColor=white" alt="PL SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-6E1423?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-6E1423?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -68,8 +69,6 @@ At the moment, I am especially interested in **Quarkus-based backend application
   <img src="https://img.shields.io/badge/Vercel-6E1423?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-6E1423?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Turso-6E1423?style=for-the-badge&logo=turso&logoColor=white" alt="Turso" />
-  <img src="https://img.shields.io/badge/SQLite-6E1423?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/.ENV-6E1423?style=for-the-badge&logo=.env&logoColor=white" alt="dotenv" />
 </p>
 
 ### Additional Experience
